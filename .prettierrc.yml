@@ -1,1 +1,5 @@
-src/{% if 12 < odoo_version < 18 %}.prettierrc.yml{% endif %}
+semi: false
+singleQuote: true
+tabWidth: 4
+useTabs: false
+printWidth: 80
